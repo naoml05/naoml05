@@ -1,24 +1,60 @@
-# 👋 Hi, I'm Naomi
- 
-Computer Science student at **UTSA** (B.S., expected Dec 2027) focused on **Data Science and Machine Learning**. I build systems that make sense of messy, real-world data, and I'm researching how to make medical AI work fairly for everyone.
- 
-📫 **Seeking Summer 2027 ML / SWE internships**
+<div align="center">
 
-## 🧰 Tech Stack
- 
-| Area          | Tools                                                                                  |
-| ------------- | -------------------------------------------------------------------------------------- |
-| **Languages** | Python, Java, C, JavaScript, SQL, HTML/CSS                                             |
-| **ML / NLP**  | PyTorch, Hugging Face Transformers, sentence-transformers, NLI, text embeddings, LLM APIs, CNNs |
-| **Tools**     | Git/GitHub, REST APIs, Node.js, Express, React, SQLite, VS Code                        |
- 
+# 💚 naoml05
+
+### *A Sim is loading...*
+
+</div>
+
 ---
- 
-## 🎓 Education
- 
-**University of Texas at San Antonio**, B.S. in Computer Science (Expected Dec 2027)
-GPA 3.75 · Dean's List (2x)
- 
+
+## 🧬 Sim Bio
+
+| | |
+|---|---|
+| **Name** | Naomi Teklemichael |
+| **Life Stage** | University Student |
+| **Lot** | University of Texas at San Antonio |
+| **Aspiration** | 🎯 Data Scientist / AI-ML Engineer |
+| **Current Mood** | 🟢 Focused |
+
 ---
- 
-*Always happy to talk ML, NLP, or research. Feel free to reach out on LinkedIn.*
+
+## ⭐ Traits
+
+`Java` · `Python` · `JavaScript` · `HTML/CSS` · `C` · `AI/ML` · `Data Science`
+
+---
+
+## 📊 Skill Bars
+Java ████████████████████ 100%
+Python ██████████████████░░░░ 80%
+JavaScript ████████████░░░░░░░░ 60%
+HTML / CSS ███████████░░░░░░░░░░ 50%
+Machine Learning ██████████░░░░░░░░ 50%
+
+
+---
+
+## 🏗️ Active Builds (Projects)
+
+- 💚 **Live Sports Tracker** — Python + REST APIs, real-time score tracking
+- 💚 **Habit Tracker Web App** *(in progress)* — React, Node.js, Express, SQLite
+- 💚 **Personal Website** — HTML, CSS, JS, Sims-themed portfolio
+
+---
+
+## 📞 Contact This Sim
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/naomiteklemichael/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/naoml05)
+
+</div>
+
+---
+
+<div align="center">
+<i>💎 Thanks for visiting my lot!</i>
+</div>
