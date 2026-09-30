@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/naoml05">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=3cb371&fontSize=54&height=90&width=634&text=🔷%20A%20Sim%20is%20loading...%20It's%20Naomi!" alt="A Sim is loading... It's Naomi!" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=33D658&fontSize=40&height=95&width=634&text=🌱%20A%20Sim%20is%20loading...%20It's%20Naomi!" alt="A Sim is loading... It's Naomi!" />
   </a>
 </p>
 
@@ -21,18 +21,10 @@
 🔭 &nbsp;Currently building **Contradex** — finding contradictions in personal files
 🌱 &nbsp;Currently learning **PyTorch and Hugging Face**
 
-### 🛠️ Skill Journal
+### 💎 Skill Journal
 
 <p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=vscodium&logoColor=white" alt="VS Code" />
+  <img src="https://skillicons.dev/icons?i=js,c,python,java,pytorch,git,github,vscode,githubactions&theme=light" alt="Skills" />
 </p>
 
 ### 📞 Ring This Sim's Phone
